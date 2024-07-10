@@ -23,23 +23,22 @@ This project demonstrates the ability to leverage AI and data analytics to deriv
 ## Getting Started
 To get started with SlackTally, follow these steps:
 
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/SlackTally.git
-Install the required dependencies (ensure you have R and the necessary packages installed):
-R
-Copy code
-install.packages(c("tidyverse", "ggplot2", "sentimentr"))
-Run the slacktally.R script:
-R
-Copy code
-source("slacktally.R")
-5. Generate visualizations:
-    ```bash
-    python visualize.py
-    ```
+## Getting Started
+To get started with SlackTally, follow these steps:
 
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/SlackTally.git
+    ```
+2. Install the required dependencies (ensure you have R and the necessary packages installed):
+    ```R
+    install.packages(c("tidyverse", "ggplot2", "sentimentr"))
+    ```
+3. Run the `slacktally.R` script:
+    ```R
+    source("slacktally.R")
+    ```
+    
 ## Future Work
 - Enhancing the preprocessing steps to handle more complex data structures.
 - Implementing additional sentiment analysis techniques for better accuracy.
