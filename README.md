@@ -23,9 +23,6 @@ This project demonstrates the ability to leverage AI and data analytics to deriv
 ## Getting Started
 To get started with SlackTally, follow these steps:
 
-## Getting Started
-To get started with SlackTally, follow these steps:
-
 1. Clone the repository:
     ```bash
     git clone https://github.com/your-username/SlackTally.git
